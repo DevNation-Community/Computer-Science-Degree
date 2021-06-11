@@ -26,7 +26,7 @@ Courses | School | Duration | Effort | Prerequisites | Certificaiton
 Courses | School | Duration | Effort | Prerequisites | Certificaiton
 :-- | :--: | :--: | :--: | :--: | :--:
 [All about C programming](https://www.geeksforgeeks.org/c-programming-language/?ref=ghm) | GeeksforGeeks | self-dependent | - | None | Free
-[C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone) | University of California Santa Cruz | 6 weeks | 1-4 hours/week | None | Free
+[C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone) | University of California Santa Cruz | 6 weeks | 1-4 hours/week | None | Paid
 <!-- ------------------------------------------------------------------------------ -->
 ### C++
 Courses | School | Duration | Effort | Prerequisites | Certificaiton
@@ -36,8 +36,8 @@ Courses | School | Duration | Effort | Prerequisites | Certificaiton
 ### Python
 Courses | School | Duration | Effort | Prerequisites | Certificaiton
 :-- | :--: | :--: | :--: | :--: | :--:
-[Programming for Everybody](https://www.coursera.org/learn/python) | University Of Michigan | 7 weeks | 2-4 hours/week | None | Free
-[Python Data Structures](https://www.coursera.org/learn/python-data) | University Of Michigan | 7 weeks | 1-4 hours/week | Python Basics | Free
+[Programming for Everybody](https://www.coursera.org/learn/python) | University Of Michigan | 7 weeks | 2-4 hours/week | None | Paid
+[Python Data Structures](https://www.coursera.org/learn/python-data) | University Of Michigan | 7 weeks | 1-4 hours/week | Python Basics | Paid
 
 ### Java
 Courses | School | Duration | Effort | Prerequisites | Certificaiton

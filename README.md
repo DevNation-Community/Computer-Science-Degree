@@ -1,7 +1,7 @@
 # Computer Science Degree
 
 #### This is a list of free courses from reputable platforms and universities that satisfy the same requirements as an undergraduate Computer Science Degree (General Education not included)
-#### These are only resources to study from and cannot get you an actual Computer Science Degree. It only provides knowledge that is taugth to a Computer Science student.
+#### These are only resources to study from and cannot get you an actual Computer Science Degree. It only provides knowledge that is taught to a Computer Science student.
 
 #### Contributors: [Aarushi Bansal](https://github.com/aarushi374) and [Bhumika Sharma](https://github.com/schmithvillers)
 
